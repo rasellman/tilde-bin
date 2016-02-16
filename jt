@@ -1,0 +1,3 @@
+JETTY_HOME=/work/rob/jetty/jetty-distribution-9.3.7.v20160115
+JETTY_BASE=/work/rob/webapps
+java -jar $JETTY_HOME/start.jar $*

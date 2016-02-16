@@ -1,0 +1,3 @@
+GRADLE_HOME=/work/rob/gradle/gradle-2.11
+ 
+$GRADLE_HOME/bin/gradle $*
